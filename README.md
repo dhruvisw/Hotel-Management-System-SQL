@@ -1,5 +1,5 @@
 # Hotel-Management-System-SQL🛎
-🎯The main objective of this project is to create a database management system for a hotel. The hotel has multiple chains, which further have multiple hotels. In order to manage all the operations and data of hotel we would need an organized management that will cater to our needs. The data collected for making hotel database management system is taken from one of the hotel’s of Mumbai i.e. Suvi Palace in Vasai. The areas which we will manage include- 
+🎯The main objective of this project is to create a database management system for a hotel. The hotel has multiple chains, which further have multiple hotels. In order to manage all the operations and data of hotel we would need an organized management that will cater to our needs. The data collected for making hotel database management system is taken from one of the hotel in Mumbai. The areas which we will manage include- 
 –	The hotel chains, their details
 –	The number of rooms in the hotel, description of rooms and discounts provided
 –	Information about employees and departments they work in
